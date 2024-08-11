@@ -95,7 +95,7 @@
 | model | train_accuracy | test_accuracy | f1-score | precision | recall | auc | csi |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | RF | 1.000000 | 0.998567 | 0.998567 | 0.998567 | 0.998567 | 0.999988 | 0.998092 |
-| XGBoost | 0.782575 | 0.781619 | 0.781357 | 0.781987 | 0.781619 | 0.941890 | 0.711473 |
+| **XGBoost** | **0.782575** | **0.781619** | **0.781357** | **0.781987** | **0.781619** | **0.941890** | **0.711473** |
 | LightGBM | 0.733364 | 0.732875 | 0.732350 | 0.732764 | 0.732875 | 0.918170 | 0.648459 |
 | AdaBoost | 0.571195 | 0.570512 | 0.568084 | 0.567130 | 0.570512 | 0.779857 | 0.453610 |
 
@@ -115,7 +115,7 @@
         <td><b>AdaBoost</b></td>
     </tr>
     <tr align="center">
-        <td><img src="https://github.com/user-attachments/assets/3f1938b6-3246-49fb-93e6-32462f300857"></td>
+        <td><img src="https://github.com/user-attachments/assets/f4f18e18-c065-4f2a-b6be-e2ac582e64df"></td>
         <td><img src="https://github.com/user-attachments/assets/c64e2e3b-4278-4d6e-82a3-bcd266374cd1"></td>
         <td><img src="https://github.com/user-attachments/assets/3b0b7305-c7b9-4a7b-a936-2a702180abc9"></td>
         <td><img src="https://github.com/user-attachments/assets/a05ffa56-c030-4128-8eaa-f2eb81ce42b3"></td>
